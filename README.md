@@ -25,6 +25,15 @@ Follow these steps to set up and run the AI Codebase Assistant on your local mac
 - **Docker**: For running supporting services like the vector store and MySQL database.
 - **Node.js**: Version 22 or higher.
 
+## 2. Clone the Repo
+
+Clone the repository and CD into the project folder with the following commands:
+
+```sh
+git clone https://github.com/danielefavi/ai-codebase-assistant.git
+cd ai-codebase-assistant
+```
+
 ## 2. Environment Setup
 
 First, configure your environment variables.
